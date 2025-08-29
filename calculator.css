@@ -36,6 +36,7 @@
     background-color: rgb(94, 104, 108);
     box-shadow: 0px 15px 15px rgb(81, 67, 69);
     font-size: 1.55rem;
+    cursor: pointer;
 }
 
 .output-text {
